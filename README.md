@@ -127,7 +127,7 @@ In general, as the flight number increased so did the chance for a successful la
 
 **Figure 1:** Payload mass vs. flight number. The Booster landing success or failure is indicated by the class, with 0 indicating failure and 1 indicating success.
 
-<img src="payload_flight_num.png" alt="Payload mass vs flight number" width=800, height=800/>
+<img src="payload_flight_num.png" alt="Payload mass vs flight number" width=800, height=400/>
 
 It was noted that the ratio of successes to failures was dependant on the launch site (Figure 2). The launch site CCAFS SLC 40 had the greatest number of failures. However, it should be noted that this site contained nearly all of the early launches (flight number < 20). Site KSC LC 39A did not launch a rocket until after 20 previous flights.
 
